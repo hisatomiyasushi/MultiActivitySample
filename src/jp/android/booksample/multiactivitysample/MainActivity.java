@@ -12,6 +12,8 @@ import android.widget.SimpleCursorAdapter;
 
 public class MainActivity extends ListActivity {
 
+	// リモートからpushするテスト
+	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
